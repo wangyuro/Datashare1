@@ -1,4 +1,3 @@
 # Datashare1
- high-dynamic-range infrared image enhancement
- This demo only for reviewers. Commercial or academic applications are prohibited.
+Paper: Raw infrared image enhancement via an inverted framework based on infrared basic prior
 
